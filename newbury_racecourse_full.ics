@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Newbury Racecourse Live Updating//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Newbury Racecourse (Live Updating)
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:20250109@newbury-live
+DTSTAMP:20251125T205006Z
+DTSTART:20250109T12000000
+DTEND:20250109T17000000
+SUMMARY:Newbury Raceday – Afternoon Racing
+LOCATION:Newbury Racecourse, RG14 7NZ, UK
+DESCRIPTION:Official gate times and race times will auto-update once published.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250115@newbury-live
+DTSTAMP:20251125T205006Z
+DTSTART:20250115T12000000
+DTEND:20250115T17000000
+SUMMARY:Newbury Raceday – Afternoon Racing
+LOCATION:Newbury Racecourse, RG14 7NZ, UK
+DESCRIPTION:Official gate times and race times will auto-update once published.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250208@newbury-live
+DTSTAMP:20251125T205006Z
+DTSTART:20250208T12000000
+DTEND:20250208T17000000
+SUMMARY:Newbury Super Saturday
+LOCATION:Newbury Racecourse, RG14 7NZ, UK
+DESCRIPTION:Official gate times and race times will auto-update once published.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250228@newbury-live
+DTSTAMP:20251125T205006Z
+DTSTART:20250228T12000000
+DTEND:20250228T17000000
+SUMMARY:Newbury BetVictor Afternoon Racing
+LOCATION:Newbury Racecourse, RG14 7NZ, UK
+DESCRIPTION:Official gate times and race times will auto-update once published.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250301@newbury-live
+DTSTAMP:20251125T205006Z
+DTSTART:20250301T12000000
+DTEND:20250301T17000000
+SUMMARY:Newbury BetVictor Afternoon Racing
+LOCATION:Newbury Racecourse, RG14 7NZ, UK
+DESCRIPTION:Official gate times and race times will auto-update once published.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250321@newbury-live
+DTSTAMP:20251125T205006Z
+DTSTART:20250321T12000000
+DTEND:20250321T17000000
+SUMMARY:Newbury BetVictor Jumps Finale (Fri)
+LOCATION:Newbury Racecourse, RG14 7NZ, UK
+DESCRIPTION:Official gate times and race times will auto-update once published.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250322@newbury-live
+DTSTAMP:20251125T205006Z
+DTSTART:20250322T12000000
+DTEND:20250322T17000000
+SUMMARY:Newbury BetVictor Jumps Finale (Sat)
+LOCATION:Newbury Racecourse, RG14 7NZ, UK
+DESCRIPTION:Official gate times and race times will auto-update once published.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250411@newbury-live
+DTSTAMP:20251125T205006Z
+DTSTART:20250411T12000000
+DTEND:20250411T17000000
+SUMMARY:Newbury Dubai Duty Free Spring Trials (Fri)
+LOCATION:Newbury Racecourse, RG14 7NZ, UK
+DESCRIPTION:Official gate times and race times will auto-update once published.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250412@newbury-live
+DTSTAMP:20251125T205006Z
+DTSTART:20250412T12000000
+DTEND:20250412T17000000
+SUMMARY:Newbury Dubai Duty Free Spring Trials (Sat)
+LOCATION:Newbury Racecourse, RG14 7NZ, UK
+DESCRIPTION:Official gate times and race times will auto-update once published.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250516@newbury-live
+DTSTAMP:20251125T205006Z
+DTSTART:20250516T12000000
+DTEND:20250516T17000000
+SUMMARY:Newbury Starlight Charity Raceday
+LOCATION:Newbury Racecourse, RG14 7NZ, UK
+DESCRIPTION:Official gate times and race times will auto-update once published.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250517@newbury-live
+DTSTAMP:20251125T205006Z
+DTSTART:20250517T12000000
+DTEND:20250517T17000000
+SUMMARY:Newbury Lockinge Stakes with Ladies Day
+LOCATION:Newbury Racecourse, RG14 7NZ, UK
+DESCRIPTION:Official gate times and race times will auto-update once published.
+END:VEVENT
+END:VCALENDAR
